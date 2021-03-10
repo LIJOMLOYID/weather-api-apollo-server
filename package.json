@@ -4,7 +4,7 @@
   "description": "Weather API with GraphQL and Apollo server",
   "main": "index.js",
   "scripts": {
-    "start": " src/index.ts ",
+    "start": "ts-node src/index.ts ",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -21,6 +21,8 @@
     "apollo-datasource-rest": "^0.10.0",
     "apollo-server": "^2.21.1",
     "camelcase-keys": "^6.2.2",
-    "graphql": "^15.5.0"
+    "graphql": "^15.5.0",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.3"
   }
 }
