@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/LIJOMLOYID/weather-api-apollo-server/issues"
   },
-  "homepage": "https://github.com/LIJOMLOYID/weather-api-apollo-server#readme"
+  "homepage": "https://github.com/LIJOMLOYID/weather-api-apollo-server#readme",
+  "dependencies": {
+    "apollo-server": "^2.21.1",
+    "graphql": "^15.5.0"
+  }
 }
