@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/LIJOMLOYID/weather-api-apollo-server#readme",
   "dependencies": {
+    "apollo-datasource-rest": "^0.10.0",
     "apollo-server": "^2.21.1",
     "graphql": "^15.5.0"
   }
